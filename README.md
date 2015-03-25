@@ -1,6 +1,6 @@
 # StoryboardNavigator
 
-Navigation between multiple storyboards made simple.
+This framework makes navigation between multiple storyboards possible from Interface Builder level.
 
 ## Information
 
@@ -16,3 +16,7 @@ Navigation between multiple storyboards made simple.
 Latest stable release is always available in [releases](https://github.com/MobileToolkit/StoryboardNavigator/releases) (both binary & source).
 
 The recommended way to install StoryboardNavigator is to download the binary release, unzip it & just drag & drop **StoryboardNavigator.framework** into your Xcode project.
+
+## Getting Started
+
+...

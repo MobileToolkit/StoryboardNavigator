@@ -19,4 +19,4 @@ The recommended way to install StoryboardNavigator is to download the binary rel
 
 ## Getting Started
 
-...
+For more information please check the [wiki pages](https://github.com/MobileToolkit/StoryboardNavigator/wiki).

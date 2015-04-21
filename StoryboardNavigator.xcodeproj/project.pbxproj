@@ -612,6 +612,7 @@
 				INFOPLIST_FILE = StoryboardNavigator/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
@@ -628,6 +629,7 @@
 				INFOPLIST_FILE = StoryboardNavigator/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
@@ -757,6 +759,7 @@
 				E98275E01AC2F01500EFB83D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E98275E11AC2F01500EFB83D /* Build configuration list for PBXNativeTarget "StoryboardNavigatorTests" */ = {
 			isa = XCConfigurationList;
@@ -765,6 +768,7 @@
 				E98275E31AC2F01500EFB83D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E98276141AC2F5D500EFB83D /* Build configuration list for PBXNativeTarget "SNVExample" */ = {
 			isa = XCConfigurationList;
@@ -773,6 +777,7 @@
 				E98276161AC2F5D500EFB83D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E98276171AC2F5D500EFB83D /* Build configuration list for PBXNativeTarget "SNVExampleTests" */ = {
 			isa = XCConfigurationList;
@@ -781,6 +786,7 @@
 				E98276191AC2F5D500EFB83D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E982761E1AC2F60F00EFB83D /* Build configuration list for PBXAggregateTarget "StoryboardNavigatorFramework" */ = {
 			isa = XCConfigurationList;
@@ -789,6 +795,7 @@
 				E98276201AC2F60F00EFB83D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

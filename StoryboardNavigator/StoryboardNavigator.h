@@ -14,5 +14,5 @@ FOUNDATION_EXPORT double StoryboardNavigatorVersionNumber;
 //! Project version string for StoryboardNavigator.
 FOUNDATION_EXPORT const unsigned char StoryboardNavigatorVersionString[];
 
-#import <StoryboardNavigator/SNVModalLinkedStoryboardSegue.h>
-#import <StoryboardNavigator/SNVPushLinkedStoryboardSegue.h>
+#import <StoryboardNavigator/SNVPresentModallyStoryboardSegue.h>
+#import <StoryboardNavigator/SNVPushStoryboardSegue.h>
